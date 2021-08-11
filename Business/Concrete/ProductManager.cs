@@ -27,7 +27,7 @@ namespace Business.Concrete
                 return new ErrorResult(Messages.ProductNameInvalid);
             }
              _productDal.Add(product);
-            return new SuccessResult(Messages.ProductNameInvalid);
+            return new SuccessResult(Messages.ProductAdded);
         }
 
         public IDataResult< List<Product>> GetAll()
