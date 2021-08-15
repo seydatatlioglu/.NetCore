@@ -9,8 +9,7 @@ namespace Core.Utilities.Results
 
         public Result(bool success, string message):this(success)
         {
-            Message = message; //hem bool hem de string ifadeleri istedik
-            
+            Message = message; //hem bool hem de string ifadeleri istedik  
         }
         public Result(bool success)
         { 
