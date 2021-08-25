@@ -72,3 +72,9 @@ C:\Users\seyda\Desktop\hedef\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac
 C:\Users\seyda\Desktop\hedef\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Castle.Core.dll
 C:\Users\seyda\Desktop\hedef\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
 C:\Users\seyda\Desktop\hedef\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\seyda\Desktop\hedef\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\seyda\Desktop\hedef\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\seyda\Desktop\hedef\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\seyda\Desktop\hedef\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\seyda\Desktop\hedef\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\seyda\Desktop\hedef\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
