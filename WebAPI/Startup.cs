@@ -41,8 +41,8 @@ namespace WebAPI
             services.AddControllers();
             //services.AddSingleton<IProductService,ProductManager>(); //data yok ise Singleton
             //services.AddSingleton<IProductDal, EfProductDal>(); //IProducDal' a da baðlýyým ve EfProductDal'ý referans ediyorum..
-            
 
+            services.AddCors();
             var tokenOptions = Configuration.GetSection("TokenOptions").Get<TokenOptions>();
 
             services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
@@ -73,6 +73,8 @@ namespace WebAPI
             {
                 app.UseDeveloperExceptionPage();
             }
+
+            app.UseCors(builder=>builder.WithOrigins("http://localhost:4200").AllowAnyHeader());//angular host
 
             app.UseHttpsRedirection();
 

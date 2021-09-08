@@ -11,7 +11,7 @@ using System.Text;
 
 namespace Business.Concrete
 {
-    public partial class UserManager : IUserService
+    public class UserManager : IUserService
     {
         IUserDal _userDal;
 
