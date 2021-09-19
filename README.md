@@ -1,7 +1,15 @@
 # FinalProject
 
 <p>E-ticaret siteleri için kullanılabilir bir mimari amaçlanmıştır.<br>
-.NetCore ile geliştirilmiştir.
+.NetCore ile geliştirilmiştir.<br>
+  
+  <tr>
+<td align="left"><a href="/dotnet/core/blob/main/release-notes/3.1/README.md">.NET Core 3.1</a></td>
+<td align="left"><a href="https://devblogs.microsoft.com/dotnet/announcing-net-core-3-1/" rel="nofollow">December 3, 2019</a></td>
+<td align="left"><a href="/dotnet/core/blob/main/release-policies.md">LTS</a></td>
+<td align="left"><a href="/dotnet/core/blob/main/release-notes/3.1/3.1.19/3.1.19.md">3.1.19</a></td>
+<td align="left">December 3, 2022</td>
+</tr>
 
 Kayıt olma fonksiyonunda kullanıcının şifresi veritabanında hash ve salt yöntemleri ile depolanır. <br>
 Kullanıcının güvenliği bu şekilde sağlanır.
