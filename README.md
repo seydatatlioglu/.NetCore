@@ -1,6 +1,6 @@
 # FinalProject
 
-<p>E-ticaret siteleri için kullanılabilir.<br>
+<p>E-ticaret siteleri için kullanılabilir bir mimari amaçlanmıştır.<br>
 .NetCore ile geliştirilmiştir.
 
 Kayıt olma fonksiyonunda kullanıcının şifresi veritabanında hash ve salt yöntemleri ile depolanır. <br>
