@@ -51,17 +51,18 @@ Bütün fonksiyonlar CRUD mantığı ile yazılmıştır. <br>
   <h3>
 6.Kullanılan Paketler</h3>
 <ul>
-  <li>6.1:FluentValidation</li>
-  <li>6.2:Autofac</li>
-  <li>6.3:Autofac.Extensions.DependencyInjection</li>
-  <li>6.4:Autofac.Extras.DynamicProxy</li>
-  <li>6.5:Microsoft.Extensions.Identity.Core</li>
-  <li>6.6:Microsoft.AspNetCore.Http</li>
-  <li>6.7:Microsoft.AspNetCore.Http.Abstractions</li>
-  <li>6.8:Microsoft.EntityFrameworkCore.SqlServer</li>
-  <li>6.9:Microsoft.Extensions.Configuration</li>
-  <li>6.10:Microsoft.Extensions.Configuration.Binder</li>
-  <li>6.11:Microsoft.AspNetCore.Authentication.JwtBearer </p></li></ul>
+  <li><a href="https://www.nuget.org/packages/FluentValidation.AspNetCore/">6.1:FluentValidation</a></li>
+  <li><a href="https://www.nuget.org/packages/Autofac/">6.2:Autofac</a></li>
+  <li><a href="https://www.nuget.org/packages/Autofac.Extensions.DependencyInjection/7.2.0-preview.1">6.3:Autofac.Extensions.DependencyInjection</a></li>
+  <li><a href="https://www.nuget.org/packages/Autofac.Extras.DynamicProxy/">6.4:Autofac.Extras.DynamicProxy</a></li>
+  <li><a href="https://www.nuget.org/packages/Microsoft.Extensions.Identity.Core/6.0.0-rc.1.21452.15">6.5:Microsoft.Extensions.Identity.Core</a></li>
+  <li><a href="https://www.nuget.org/packages/Microsoft.AspNetCore.Http/">6.6:Microsoft.AspNetCore.Http</a></li>
+  <li><a href="https://www.nuget.org/packages/Microsoft.AspNetCore.Http.Abstractions/">6.7:Microsoft.AspNetCore.Http.Abstractions</a></li>
+  <li><a href="https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.SqlServer/6.0.0-rc.1.21452.10">6.8:Microsoft.EntityFrameworkCore.SqlServer</a></li>
+  <li><a href="https://www.nuget.org/packages/Microsoft.Extensions.Configuration/6.0.0-rc.1.21451.13">6.9:Microsoft.Extensions.Configuration</a></li>
+  <li><a href="https://www.nuget.org/packages/Microsoft.Extensions.Configuration.Binder/6.0.0-rc.1.21451.13">6.10:Microsoft.Extensions.Configuration.Binder</a></li>
+  <li><a href="https://www.nuget.org/packages/Microsoft.AspNetCore.Authentication.JwtBearer/6.0.0-rc.1.21452.15">6.11:Microsoft.AspNetCore.Authentication.JwtBearer </a></p></li></ul>
+  
 
 
   
