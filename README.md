@@ -1,4 +1,4 @@
-# FinalProject
+# .NetCoreBackEnd
 
 <p>E-ticaret siteleri için kullanılabilir bir mimari amaçlanmıştır.<br>
 .NetCore ile geliştirilmiştir.<br>
