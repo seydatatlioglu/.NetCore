@@ -2,6 +2,7 @@
 
 <p>E-ticaret siteleri için kullanılabilir bir mimari amaçlanmıştır.<br>
 .NetCore ile geliştirilmiştir.<br>
+
   
   <tr>
 <td align="left"><a href="/dotnet/core/blob/main/release-notes/3.1/README.md">.NET Core 3.1</a></td>
