@@ -17,7 +17,7 @@ Kullanıcının güvenliği bu şekilde sağlanır.
 
 <h3>FONKSİYONLAR</h3>
 
-Bütün fonksiyonlar CRUD mantığı ile yazılmıştır. <br>
+Bütün fonksiyonlar CRUD mantığı ile Katmanlı Mimariye uygun yazılmıştır. <br>
 <h3>
 1.Kullanıcı fonksiyonları: </h3>
 <ul> 
