@@ -78,3 +78,8 @@ C:\Users\seyda\Desktop\hedef\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Microso
 C:\Users\seyda\Desktop\hedef\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
 C:\Users\seyda\Desktop\hedef\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
 C:\Users\seyda\Desktop\hedef\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\seyda\Desktop\hedef\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\AdminLTE-3.0.4\composer.json
+C:\Users\seyda\Desktop\hedef\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\AdminLTE-3.0.4\package-lock.json
+C:\Users\seyda\Desktop\hedef\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\AdminLTE-3.0.4\package.json
+C:\Users\seyda\Desktop\hedef\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\AdminLTE-3.0.4\plugins\daterangepicker\bower.json
+C:\Users\seyda\Desktop\hedef\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\AdminLTE-3.0.4\plugins\raphael\bower.json
